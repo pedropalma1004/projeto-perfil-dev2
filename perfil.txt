@@ -9,3 +9,7 @@ Interesses:
 
 Objetivo:
 Me tornar um programador
+
+Linguagens que quero aprender:
+- Python
+- JavaScript
