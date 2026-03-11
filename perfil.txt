@@ -1,0 +1,11 @@
+Nome: Pedro Palma
+Curso: Análise e Desenvolvimento de Sistemas
+Cidade: Mogi das Cruzes
+
+Interesses:
+- Programação
+- Tecnologia
+- Banco de dados
+
+Objetivo:
+Me tornar um programador
